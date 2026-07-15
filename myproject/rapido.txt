@@ -1,0 +1,1 @@
+this is rapido.txt file of myproject folder.
